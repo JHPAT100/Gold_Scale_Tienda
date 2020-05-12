@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'gold_scale',
+    'database_user' => 'admin_gold',
+    'database_password' => 'Gold_Scale',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'W3xeheec6WpkYjOeAJT0o7zrCKOo7G9JqXUggUF9f3Vj9CgpItbrdano',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-05-11',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'hiK6Ru508UREWG8RNGa5yp61jxOsvrRY66TBt7NuULVcaqy3jTXBRNxw',
+    'cookie_iv' => 'hhdu79Yj',
+    'new_cookie_key' => 'def000009eb6a5b5e0bb5e9d3d30d7a1e09c7832e3ecf503dbc0515c84da7e0eb3fef01a59c7c01b1fa339388cc40cf6d564e3d3d91155219c72f0ac9221264f69826243',
+  ),
+);
